@@ -22,7 +22,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
 
-package server;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
